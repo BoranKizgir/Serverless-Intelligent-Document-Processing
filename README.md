@@ -20,3 +20,8 @@ Bu proje, AWS üzerinde tamamen sunucusuz (serverless) bir mimari kullanarak dö
 2. Lambda için gerekli IAM izinlerini (S3, Textract, DynamoDB) yapılandırın.
 3. Bir S3 Bucket oluşturun ve Lambda'yı tetikleyici olarak ekleyin.
 4. Herhangi bir görseli (JPG/PNG) bucket'a yükleyin ve sonuçları DynamoDB'den izleyin.
+
+![](statement_1.png)
+![](statement_2.png)
+![](statement_3.png)
+![](statement_4.png)
