@@ -24,4 +24,5 @@ Bu proje, AWS üzerinde tamamen sunucusuz (serverless) bir mimari kullanarak dö
 ![](statement_1.png)
 ![](statement_2.png)
 ![](statement_3.png)
-![](statement_4.png)
+![](statement_4.png) 
+![](Serverless-Intelligent-Document-Processing.drawio.png)
